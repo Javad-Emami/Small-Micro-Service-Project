@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "55reln7hruIYodPdwBThAiktJ1wDC+MQuT3tyYkpKUE=",
+  "Source": "Marnico.Services.ProductsAPI",
+  "BasePath": "_content/Marnico.Services.ProductsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
